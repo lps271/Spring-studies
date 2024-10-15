@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/quickstart/pom.xml" />
         <option value="$PROJECT_DIR$/rest-service/pom.xml" />
+        <option value="$PROJECT_DIR$/consuming-rest/pom.xml" />
       </list>
     </option>
   </component>

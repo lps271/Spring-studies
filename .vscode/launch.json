@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RestServiceApplication",
+            "request": "launch",
+            "mainClass": "com.example.rest_service.RestServiceApplication",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-QuickstartApplication<quickstart>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
